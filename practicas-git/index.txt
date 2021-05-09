@@ -1,0 +1,13 @@
+git add nombre = agregar de forma local
+git add . = agrega todo los archivos
+git status = para consultar el estados de los archivos
+git status -s = para consultar el estado de todos los estados
+git 
+
+
+PARA MANDAR EL PROYECTO A GITHUB
+
+git remote add origin "enlace del repositorio de GitHub"
+git push -u origin master
+
+git push = para mandarlo a githut, cuando ya está enlazado el proyecto a github.
